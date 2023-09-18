@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(#9a08dd 0%,#f42b03 40%, #2804f2 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.fotoKU {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.row {
+    padding: 0px 20px;
+}
+
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata {
+    background: linear-gradient(#f4f1f5 0%,#a78b86 40%, #f20404 100%);
+    padding-bottom: 200px;
+    padding-top: 60px;
+}
+.organisasi{
+    padding-top: 50px;
+}
+.footer{
+    background-color: #ffff;
+    padding-bottom: 20px;
+}
+.contact a{
+    color: black ;
+    font-size: 30px;
+}
+.watermark {
+    padding-top: 30px;
+}
